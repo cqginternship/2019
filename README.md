@@ -4,7 +4,7 @@
 
 Дата | Тип Занятия | Занятие
 -----|-------------|--------
-05 сен | Лекция | Software Design
+05 сен | Лекция | [Software Design](<1. Software design/Software_design.pdf>)
 06 сен | Лекция | STL
 19 сен | Лаба   | STL
 20 сен | Лекция | Modern C++: move-semantics and smart pointers
