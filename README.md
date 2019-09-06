@@ -1,12 +1,12 @@
-# CQG Internship 2019
+﻿# CQG Internship 2019
 
 ## Расписание
 
 Дата | Тип Занятия | Занятие
 -----|-------------|--------
 05 сен | Лекция | [Software Design](<1. Software design/Software_design.pdf>)
-06 сен | Лекция | STL
-19 сен | Лаба   | STL
+06 сен | Лекция | [STL](<2. STL/STL Basics.pdf>)
+19 сен | Лаба   | [STL](<2. STL/STL Task.md>)
 20 сен | Лекция | Modern C++: move-semantics and smart pointers
 03 окт | Лаба   | Modern C++: move-semantics and smart pointers
 04 окт | Лекция | Modern C++: lambda, bind, function
