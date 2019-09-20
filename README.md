@@ -7,8 +7,8 @@
 05 сен | Лекция | [Software Design](<1. Software design/Software_design.pdf>)
 06 сен | Лекция | [STL](<2. STL/STL Basics.pdf>)
 19 сен | Лаба   | [STL](<2. STL/STL Task.md>)
-20 сен | Лекция | Modern C++: move-semantics and smart pointers
-03 окт | Лаба   | Modern C++: move-semantics and smart pointers
+20 сен | Лекция | [Move Semantics and Smart Pointers](<3. Move Semantic, Smart Pointers/Move Semantic, Smart Pointers.pdf>)
+03 окт | Лаба   | [Move Semantics and Smart Pointers](<3. Move Semantic, Smart Pointers/Move Semantic, Smart Pointers.md>)
 04 окт | Лекция | Modern C++: lambda, bind, function
 17 окт | Лаба   | Modern C++: lambda, bind, function
 18 окт | Лекция | Debugging
