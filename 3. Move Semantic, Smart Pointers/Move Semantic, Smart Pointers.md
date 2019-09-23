@@ -42,13 +42,13 @@ CopyPtr<std::string> ptr(new std::string("text"));
 class IAlgorithm
 {
 public:
-   virtual int Execute(int i_a, int i_b) = 0;
+   virtual int Execute(int a, int b) = 0;
 };
 
 class Factory
 {
 public:
-   shared_ptr<IAlgorithm> CreateAlgo(char i_op) { ... }
+   shared_ptr<IAlgorithm> CreateAlgo(char op) { ... }
 };
 ```
 
