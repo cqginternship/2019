@@ -9,8 +9,8 @@
 19 сен | Лаба   | [STL](<2. STL/STL Task.md>)
 20 сен | Лекция | [Move Semantics and Smart Pointers](<3. Move Semantic, Smart Pointers/Move Semantic, Smart Pointers.pdf>)
 03 окт | Лаба   | [Move Semantics and Smart Pointers](<3. Move Semantic, Smart Pointers/Move Semantic, Smart Pointers.md>)
-04 окт | Лекция | Modern C++: lambda, bind, function
-17 окт | Лаба   | Modern C++: lambda, bind, function
+04 окт | Лекция | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++. Lambda, Bind, Function.pdf>)
+17 окт | Лаба   | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++. Lambda, Bind, Function.md>)
 18 окт | Лекция | Debugging
 31 окт | Лаба   | Debugging
 01 ноя | Лекция | WinAPI+DLL
@@ -26,10 +26,10 @@
 
 ## Оценки
 
-Каждая лабораторная работа оценивается по 10-бальной шкале. Всего 80 баллов.
+Каждая лабораторная работа оценивается по 10-бальной шкале. Всего 70 баллов.
 
-+ оценка <b>5 &Element; [65, 80]</b>
-+ оценка <b>4 &Element; [50, 65)</b>
-+ оценка <b>3 &Element; [40, 50)</b>
++ оценка <b>5 &Element; [55, 70]</b>
++ оценка <b>4 &Element; [45, 55)</b>
++ оценка <b>3 &Element; [35, 45)</b>
 + На дифф. зачете можно получить любую оценку
 
