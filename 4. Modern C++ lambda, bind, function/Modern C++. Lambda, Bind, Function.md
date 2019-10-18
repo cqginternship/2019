@@ -186,7 +186,7 @@ auto threeNumbers = Import(input.begin(), input.end()); // 1, 2, 3
     `decay_t<result_of_t<TFn, T>>` - это возвращаемое значение `TFn` при передаче `T` как аргумента функции.
     ``` cpp
     template<class T, class TFn>
-    Stream<std::decay_t<std::result_of_t<TFn, T>>> Map(Stream<T> stream, TFn f)
+    Stream<std::decay_t<std::result_of_t<TFn>>> Map(Stream<T> stream, TFn f)
 
     Map(naturalNumbers, [](int i) { return i * i; }); // 1, 4, 16, 64...
     ```
