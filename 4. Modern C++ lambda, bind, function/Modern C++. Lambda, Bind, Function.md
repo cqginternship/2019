@@ -183,13 +183,16 @@ auto threeNumbers = Import(input.begin(), input.end()); // 1, 2, 3
 
     Возвращаемоe значение `Map` по сути означает поток типа, который возвращает функция `f`.
     Необязательно разбираться в `decay_t` и в `result_of_t`, чтобы написать эту функцию.
-    `decay_t<result_of_t<TFn, T>>` - это возвращаемое значение `TFn` при передаче `T` как аргумента функции.
+    `decay_t<result_of_t<TFn(T)>>` - это возвращаемое значение `TFn` при передаче `T` как аргумента функции.
     ``` cpp
     template<class T, class TFn>
-    Stream<std::decay_t<std::result_of_t<TFn>>> Map(Stream<T> stream, TFn f)
+    Stream<decay_t<result_of_t<TFn(T)>>> Map(Stream<T> stream, TFn f)
 
     Map(naturalNumbers, [](int i) { return i * i; }); // 1, 4, 16, 64...
     ```
+
+    Обратите внимание, ранее здесь была ошибка, неправильно писать result_of_t<TFn, T> (должно быть result_of_t<TFn(T)>).
+    Так можно писать для нового типа invoke_result_t<TFn, T>.
 
 1. Функция `Zip` принимает 2 потока и соединяет их в один поток пар.
     ``` cpp
