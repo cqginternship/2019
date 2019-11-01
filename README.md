@@ -13,8 +13,8 @@
 17 окт | Лаба   | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++. Lambda, Bind, Function.md>)
 18 окт | Лекция | [Debugging](<5. Debugging/Debugging.pdf>)
 31 окт | Лаба   | [Debugging](<5. Debugging/lab>)
-01 ноя | Лекция | WinAPI+DLL
-14 ноя | Лаба   | WinAPI+DLL
+01 ноя | Лекция | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.pdf>)
+14 ноя | Лаба   | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.md>)
 15 ноя | Лекция | Multithreading
 28 ноя | Лаба   | Multithreading
 29 ноя | Лекция | Regular expressions
