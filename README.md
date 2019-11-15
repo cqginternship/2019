@@ -15,8 +15,8 @@
 31 окт | Лаба   | [Debugging](<5. Debugging/lab>)
 01 ноя | Лекция | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.pdf>)
 14 ноя | Лаба   | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.md>)
-15 ноя | Лекция | Multithreading
-28 ноя | Лаба   | Multithreading
+15 ноя | Лекция | [Multithreading](<7. Multithreading/Multithreading.pdf>)
+28 ноя | Лаба   | [Multithreading](<7. Multithreading/Multithreading.md>)
 29 ноя | Лекция | Regular expressions
 12 дек | Лаба   | Regular expressions
 
