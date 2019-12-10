@@ -17,8 +17,8 @@
 14 ноя | Лаба   | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.md>)
 15 ноя | Лекция | [Multithreading](<7. Multithreading/Multithreading.pdf>)
 28 ноя | Лаба   | [Multithreading](<7. Multithreading/Multithreading.md>)
-29 ноя | Лекция | Regular expressions
-12 дек | Лаба   | Regular expressions
+29 ноя | Лекция | [Regular expressions](<8. Regular Expressions/Regular Expressions.pdf>)
+12 дек | Лаба   | [Regular expressions](<8. Regular Expressions/Regular Expressions.md>)
 
 Лабораторные работы - 18:00 в аудитории 3120б.
 
