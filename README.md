@@ -19,6 +19,7 @@
 28 ноя | Лаба   | [Multithreading](<7. Multithreading/Multithreading.md>)
 29 ноя | Лекция | [Regular expressions](<8. Regular Expressions/Regular Expressions.pdf>)
 12 дек | Лаба   | [Regular expressions](<8. Regular Expressions/Regular Expressions.md>)
+26 дек | Зачет  | [Вопросы](<Exam/Questions.md>)
 
 Лабораторные работы - 18:00 в аудитории 3120б.
 
